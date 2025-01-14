@@ -1,60 +1,86 @@
-# PwC-forage-virtual-experience
 
-The tasks given under PwC PowerBI Virtual Experience Program in Forage.
+# PwC PowerBI Virtual Experience Program  
 
-Task 1: Introduction on PowerBI
+This repository contains the deliverables for the PwC PowerBI Virtual Experience Program hosted on Forage. The program focuses on leveraging Power BI to analyze datasets and generate insights through dashboards, emphasizing key performance indicators (KPIs) across multiple business scenarios.  
 
-Task 2: Call Centre Trends
+## Program Overview  
 
-Create a dashboard in Power BI that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
+The program is divided into four key tasks, each designed to build and demonstrate data analysis and visualization skills using Power BI.  
 
-This task requires you to create a dashboard in Power BI that displays all the relevant KPIs and metrics related to call center trends.
-Possible KPIs include:
+---
 
-Overall customer satisfaction: This KPI measures the satisfaction level of customers who contacted the call center for support.
-Overall calls answered/abandoned: This KPI measures the number of calls answered by agents versus the number of calls abandoned by customers.
-Calls by time: This KPI measures the volume of calls during different times of the day, week, or month.
-Average speed of answer: This KPI measures the average time taken by agents to answer customer calls.
-Agent’s performance quadrant -> average handle time (talk duration) vs calls answered: This KPI measures the performance of agents in terms of the average handle time of calls versus the number of calls answered.
+## Task 1: Introduction to Power BI  
 
+- Familiarized with Power BI fundamentals, including data import, transformation, and visualization.  
+- Explored key features and functionalities of Power BI to prepare for subsequent tasks.  
 
-Task 3: Customer Retention
+---
 
-Define proper KPIs:
+## Task 2: Call Centre Trends  
 
-This task requires you to define the appropriate KPIs for the retention manager based on the dataset.
-Create a dashboard for the retention manager reflecting the KPIs:
+**Objective:** Create a dashboard in Power BI to analyze and visualize call center performance trends.  
 
-This task requires you to create a dashboard that displays the defined KPIs for the retention manager to track the customer retention rate.
-Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed:
+### Key KPIs Included:  
+1. **Overall Customer Satisfaction:** Measures the satisfaction level of customers who contacted the call center.  
+2. **Calls Answered vs. Calls Abandoned:** Tracks the number of answered calls against those abandoned by customers.  
+3. **Calls by Time:** Analyzes call volume patterns across different times of the day, week, or month.  
+4. **Average Speed of Answer:** Calculates the average time taken by agents to answer calls.  
+5. **Agent Performance Quadrant:** Compares the average handle time (talk duration) with the number of calls answered per agent.  
 
-This task requires you to write an email to the engagement partner, explaining the findings from the dashboard and providing suggestions on what needs to be changed to improve customer retention.
+**Outcome:** Developed an interactive dashboard that enables stakeholders to monitor call center KPIs effectively.  
 
+---
 
-Task 4: Diversity & Inclusion
+## Task 3: Customer Retention  
 
-Gender balance in the executive suite:
+**Objective:** Define KPIs for customer retention and create a dashboard for the retention manager.  
 
-This task requires you to measure and analyze the gender balance in the executive suite and create appropriate KPIs based on the dataset.
-Calculating the following measures could help to define proper KPIs:
+### Key Deliverables:  
+1. **Defined KPIs:**  
+   - Retention rate.  
+   - Average customer tenure.  
+   - Churn rate.  
+   - Reasons for churn (e.g., service issues, pricing, etc.).  
+2. **Retention Dashboard:** Designed an intuitive dashboard to visualize retention metrics and trends.  
 
-No. of men: This KPI measures the number of male employees in the executive suite.
+**Email Summary:**  
+Prepared a professional email to the engagement partner outlining key findings and actionable recommendations to enhance customer retention strategies.  
 
-No. of women: This KPI measures the number of female employees in the executive suite.
+---
 
-No. of leavers: This KPI measures the number of employees who left the company during the given period.
+## Task 4: Diversity & Inclusion  
 
-% employees promoted (FY21): This KPI measures the percentage of employees who were promoted in the financial year 2021.
+**Objective:** Measure and analyze gender balance and diversity metrics in the executive suite.  
 
-% of women promoted: This KPI measures the percentage of female employees who were promoted during the given period.
+### Key KPIs:  
+1. **Gender Balance:**  
+   - Number of male and female employees in the executive suite.  
+2. **Employee Turnover and Promotions:**  
+   - Percentage of employees promoted in FY21.  
+   - Percentage of female employees promoted.  
+   - Turnover rate by gender.  
+3. **Hiring Metrics:**  
+   - Percentage of male and female hires during the given period.  
+4. **Performance Ratings:**  
+   - Average performance ratings by gender.  
 
-% of hires men: This KPI measures the percentage of male employees who were hired during the given period.
+**Outcome:** Created a comprehensive dashboard to track and evaluate diversity and inclusion metrics, providing actionable insights for stakeholders.  
 
-% of hires women: This KPI measures the percentage of female employees who were hired during the given period.
+---
 
-% turnover: This KPI measures the percentage of employees who left the company during the given period.
+## Tools & Technologies  
 
-Average performance rating: men: This KPI measures the average performance rating of male employees in the executive suite.
+- **Power BI:** For data analysis, visualization, and dashboard creation.  
+- **Excel/CSV:** For initial data exploration and preprocessing.  
 
-Average Performance rating: women: This KPI measures the average performance rating of female employees in the executive suite.
+---
+
+## How to Use  
+
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/pushpakrai/PwC-PowerBI-forage-virtual-experience
+   ```  
+2. Open the Power BI files (.pbix) in Power BI Desktop.  
+3. Explore the dashboards for insights and analysis.  
 
